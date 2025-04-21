@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "emotion",
     description: "Detect emotion and reply with comfort",
-    usage: "",
+    usage: "!",
     cooldown: 3,
   },
   run: async ({ api, event }) => {
